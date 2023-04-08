@@ -1,9 +1,15 @@
-{% include css/bootstrap.min.css %}
-{% include css/main.css %}
-.background-image1 {
-  background-image1: url('../LADREPO/img/portfolio/1.jpg');
-  background-size: cover;
-  background-position: center center;
-  height: 500px;
-  position: relative;
-}
+<head>
+  ...
+  {% include css/bootstrap.min.css %}
+  {% include css/main.css %}
+  <style>
+    .background-image1 {
+      background-image: url('../LADREPO/img/portfolio/1.jpg');
+      background-size: cover;
+      background-position: center center;
+      height: 500px;
+      position: relative;
+    }
+  </style>
+  ...
+</head>
