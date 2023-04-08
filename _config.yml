@@ -34,8 +34,8 @@ color:
 footer:
   copyright: Logic Automation Design
   location: Location
-  social: Around the Web
-  credits: Credits
+  social: Connect With Us
+  credits: Used Equipement
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -56,7 +56,7 @@ address:
   - line: Ontario, Canada
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'We buy and sell used automation equipement. send us a list of parts and we'll get you a quote.'
 
 # Build settings
 markdown: kramdown
