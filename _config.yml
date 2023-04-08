@@ -34,8 +34,8 @@ color:
 footer:
   copyright: Logic Automation Design
   location: Location
-  social: Connect With Us
-  credits: Used Equipement
+  social: Around the Web
+  credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -56,7 +56,7 @@ address:
   - line: Ontario, Canada
 
 # Credits content
-credits: 'We buy and sell used automation equipement. send us a list of parts and we'll get you a quote.'
+credits: 'Used s'
 
 # Build settings
 markdown: kramdown
