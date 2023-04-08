@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: Automation control parts sales
+modal-id: 1
 img: 1.jpg
 alt: image-alt
 category: Automation control parts sales
