@@ -1,7 +1,4 @@
 <head>
-  ...
-  {% include css/bootstrap.min.css %}
-  {% include css/main.css %}
   <style>
     .background-image {
       background-image: url('../LADREPO/img/portfolio/1.jpg');
@@ -11,5 +8,4 @@
       position: relative;
     }
   </style>
-  ...
 </head>
