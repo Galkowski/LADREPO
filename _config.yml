@@ -34,7 +34,13 @@ color:
 footer:
   copyright: Logic Automation Design
   location: Location
+  social: Around the Web
   credits: We Buy Used Parts!
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: linkedin
+    url: http://linkedin.com/logicautomationdesign
 
 # Postal address (add as many lines as necessary)
 address:
