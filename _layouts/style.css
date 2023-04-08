@@ -3,7 +3,7 @@
   {% include css/bootstrap.min.css %}
   {% include css/main.css %}
   <style>
-    .background-image1 {
+    .background-image {
       background-image: url('../LADREPO/img/portfolio/1.jpg');
       background-size: cover;
       background-position: center center;
