@@ -35,14 +35,20 @@ footer:
   copyright: Logic Automation Design
   location: Location
   social: Around the Web
-  credits: We Buy Used Parts!
+  credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: linkedin
-    url: http://linkedin.com/logicautomationdesign
   - title: twitter
-    url: http://twitter.com/LogicAutomation
+    url: http://twitter.com/jekyllrb
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket
+    url: http://bitbucket.org/jekyll
+  - title: github
+    url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
@@ -50,7 +56,7 @@ address:
   - line: Ontario, Canada
 
 # Credits content
-credits: 'Please contact us with a list parts you'd like to sell!'
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
