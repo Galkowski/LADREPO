@@ -33,9 +33,9 @@ color:
 # Footer settings
 footer:
   copyright: Logic Automation Design
-  location: Location
-  social: Follow us
   credits: Used Equipement
+  social: Follow us
+  location: Location
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -50,13 +50,13 @@ social:
   - title: linkedin
     url: http://linkedin.com/
 
+# Credits content
+credits: 'Please feel free to contact us with a detailed list of parts if you have equipment you want to sell.'
+
 # Postal address (add as many lines as necessary)
 address:
   - line: Oakville
   - line: Ontario, Canada
-
-# Credits content
-credits: 'Please feel free to contact us with a detailed list of parts if you have equipment you want to sell.'
 
 # Build settings
 markdown: kramdown
